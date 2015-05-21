@@ -4,6 +4,7 @@ resin-network-config
 [![npm version](https://badge.fury.io/js/resin-network-config.svg)](http://badge.fury.io/js/resin-network-config)
 [![dependencies](https://david-dm.org/resin-io/resin-network-config.png)](https://david-dm.org/resin-io/resin-network-config.png)
 [![Build Status](https://travis-ci.org/resin-io/resin-network-config.svg?branch=master)](https://travis-ci.org/resin-io/resin-network-config)
+[![Build status](https://ci.appveyor.com/api/projects/status/uk5m9hjw2ma1pntr?svg=true)](https://ci.appveyor.com/project/jviotti/resin-network-config)
 
 Handle resin images network configuration.
 
