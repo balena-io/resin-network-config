@@ -6,6 +6,8 @@ resin-network-config
 [![Build Status](https://travis-ci.org/resin-io/resin-network-config.svg?branch=master)](https://travis-ci.org/resin-io/resin-network-config)
 [![Build status](https://ci.appveyor.com/api/projects/status/uk5m9hjw2ma1pntr?svg=true)](https://ci.appveyor.com/project/jviotti/resin-network-config)
 
+**DEPRECATED in favor of https://github.com/resin-io/resin-device-config**
+
 Handle resin images network configuration.
 
 Installation
